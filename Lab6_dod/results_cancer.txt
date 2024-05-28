@@ -1,0 +1,10 @@
+Dataset: cancer, n_neighbours: 3, metric:euclidean, accuracy: 0.9064327485380117
+Dataset: cancer, n_neighbours: 3, metric:manhattan, accuracy: 0.9064327485380117
+Dataset: cancer, n_neighbours: 5, metric:euclidean, accuracy: 0.9122807017543859
+Dataset: cancer, n_neighbours: 5, metric:manhattan, accuracy: 0.9122807017543859
+Dataset: cancer, n_neighbours: 7, metric:euclidean, accuracy: 0.9064327485380117
+Dataset: cancer, n_neighbours: 7, metric:manhattan, accuracy: 0.9122807017543859
+Dataset: cancer, n_neighbours: 9, metric:euclidean, accuracy: 0.9005847953216374
+Dataset: cancer, n_neighbours: 9, metric:manhattan, accuracy: 0.9005847953216374
+Dataset: cancer, n_neighbours: 11, metric:euclidean, accuracy: 0.9064327485380117
+Dataset: cancer, n_neighbours: 11, metric:manhattan, accuracy: 0.9064327485380117

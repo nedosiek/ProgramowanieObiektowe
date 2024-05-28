@@ -1,0 +1,10 @@
+Dataset: iris, n_neighbours: 3, metric:euclidean, accuracy: 1.0
+Dataset: iris, n_neighbours: 3, metric:manhattan, accuracy: 1.0
+Dataset: iris, n_neighbours: 5, metric:euclidean, accuracy: 1.0
+Dataset: iris, n_neighbours: 5, metric:manhattan, accuracy: 1.0
+Dataset: iris, n_neighbours: 7, metric:euclidean, accuracy: 1.0
+Dataset: iris, n_neighbours: 7, metric:manhattan, accuracy: 1.0
+Dataset: iris, n_neighbours: 9, metric:euclidean, accuracy: 1.0
+Dataset: iris, n_neighbours: 9, metric:manhattan, accuracy: 0.9777777777777777
+Dataset: iris, n_neighbours: 11, metric:euclidean, accuracy: 1.0
+Dataset: iris, n_neighbours: 11, metric:manhattan, accuracy: 1.0
